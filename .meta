@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "gateway": "git@github.com:linusjf/gateway.git",
+    "azure-storage": "git@github.com:linusjf/azure-storage.git",
+    "video-streaming": "git@github.com:linusjf/video-streaming.git",
+    "video-upload": "git@github.com:linusjf/video-upload.git",
+    "history": "git@github.com:linusjf/history.git",
+    "metadata": "git@github.com:linusjf/metadata.git"
+  }
+}
